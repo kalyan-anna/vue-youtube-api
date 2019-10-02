@@ -1,4 +1,4 @@
-# video-browser
+# Youtube-api integration
 
 ## Project setup
 ```
